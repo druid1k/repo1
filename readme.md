@@ -1,2 +1,2 @@
-<H1>Homework<H1><p>
-Complete
+<H1>Homework</H>
+Completed
